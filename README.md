@@ -10,14 +10,6 @@ Toward reliable Korean intelligence systems
 
 <br clear="both"/>
 
-# Bo Yoon Jeon
-
-Undergraduate Student  
-Artificial Intelligence Major, School of Electronics Engineering  
-Kyungpook National University
-
-Toward reliable Korean intelligence systems
-
 ## Contact
 
 - Email: [jby8000@gmail.com](mailto:jby8000@gmail.com)
