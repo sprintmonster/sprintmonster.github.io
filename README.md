@@ -1,3 +1,15 @@
+<img src="./profile.jpg" alt="Bo Yoon Jeon profile photo" width="140" height="180" align="left">
+
+# Bo Yoon Jeon
+
+Undergraduate Student  
+Artificial Intelligence Major, School of Electronics Engineering  
+Kyungpook National University  
+
+Toward reliable Korean intelligence systems
+
+<br clear="both"/>
+
 # Bo Yoon Jeon
 
 Undergraduate Student  
