@@ -1,4 +1,4 @@
-<img src="./전보윤.jpg" alt="Bo Yoon Jeon profile photo" width="150" height="190" align="left">
+<img src="전보윤.jpg" alt="Bo Yoon Jeon profile photo" width="213" height="284" align="left">
 
 # Bo Yoon Jeon
 
